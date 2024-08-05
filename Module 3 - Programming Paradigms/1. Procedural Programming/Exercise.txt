@@ -1,0 +1,16 @@
+#Algorithm to make cup of instant coffee:
+
+Inputs: Water, Coffee
+
+Optional Cases: Milk, Sugar, Cream
+
+Steps:
+1. Boil Water
+2. Make coffee
+3. Add Coffee to water
+4. If milk is required, add it
+5. If sugar is required, add it
+6. If cream is required, add it
+7. Serve Coffee
+
+Output: A cup of instant coffee
