@@ -1,0 +1,9 @@
+Programming styles in Python
+https://newrelic.com/blog/nerd-life/python-programming-styles
+
+Different types of algorithms used in Python
+https://www.thetechplatform.com/post/different-types-of-algorithms-in-data-structure
+
+Introduction to Big-O notation
+https://dev.to/sarah_chima/the-big-o-notation-an-introduction-34f7
+
